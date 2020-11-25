@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-nov-2020, 16:06:17
+    Author     : Robot
+*/
+
+/*index and agregar and editar*/
+.titulo{
+    color: skyblue;
+    text-align: center;
+}
+.crud{
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.link{
+    color: skyblue;
+    text-decoration: none;
+    padding: 4px;
+    border: 1px solid;
+    margin: 10px 0px 0px 0px;
+    
+    
+    
+}
+.link:hover {color:pink
+}
+.tabla{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    border-collapse:collapse;
+}
+.tabla th{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    padding: 5px;
+    color: white;
+    background: skyblue;
+}
+.tabla td{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    padding: 7px;
+}
+/*agregar and editar*/
+.header{
+    text-align: center;
+    font-size: 20px;
+    color: skyblue;
+    padding: 10px;
+}
+.boton{
+    background: none;
+    color:skyblue;
+    border: 1px solid skyblue;
+    size: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    height:26px;
+    text-align: center;
+}
+.boton:hover {color:pink;
+           border: 1px solid pink;
+}
+
